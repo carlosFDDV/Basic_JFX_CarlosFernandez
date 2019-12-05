@@ -1,0 +1,27 @@
+.fondo{
+	-fx-background-image: url("fotoDesenfocar.jpg");
+	-fx-background-size: 100%;
+}
+
+.mytitle{
+    -fx-font-family: "Arial";
+    -fx-font-size: 20px;
+}
+.buttonon{
+	-fx-border-radius: 5px;
+	-fx-font-size: 20px;
+	-fx-background-color: #5E0000;
+	-fx-background-radius: 5px;
+	-fx-font-family: "Arial";
+	-fx-text-fill: #FF0000;
+	-fx-border-color: #FF0000;
+}
+
+.buttonoff{
+	-fx-font-family: "Arial";
+	-fx-border-radius: 5px;
+	-fx-font-size: 20px;
+	-fx-background-color: white;
+	-fx-border-color: #000000;
+	-fx-text-fill: #000000;
+}
